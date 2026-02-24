@@ -31,7 +31,7 @@
 
 | Project & Domain | Tech Stack | Architecture Highlight |
 | :--- | :--- | :--- |
-| 🤖 **Hermes OS (Microsoft Challenge)** <br><sub>*Multi-Agent AI Support System*</sub> | `Semantic Kernel` `Azure OpenAI` `React` `Docker` | Engineered a SaaS-ready, 6-agent LLM pipeline in a 48h challenge. Orchestrates autonomous support with human-in-the-loop escalation. |
+| 🤖 **CleverAttendance OS (Microsoft Challenge)** <br><sub>*Multi-Agent AI Support System*</sub> | `Semantic Kernel` `Azure OpenAI` `React` `Docker` | Engineered a SaaS-ready, 6-agent LLM pipeline in a 48h challenge. Orchestrates autonomous support with human-in-the-loop escalation. |
 | 💠 **mrQuixote** <br><sub>*Custom 3D Rendering Engine*</sub> | `C++` `OpenGL` `GLSL` | Built entirely from scratch bypassing commercial engines (Unity/Unreal). Features custom shaders and direct GPU communication. |
 | 🛍️ **Creative E-Commerce** <br><sub>*Bespoke Digital Storefronts*</sub> | `Shopify Liquid` `JS` `UX/UI` | Engineered and designed high-converting bespoke platforms for designer labels. Focused on seamless digital brand experiences. |
 | 🕸️ **DSGram & TaskFlow** <br><sub>*Algorithmic Social Networks*</sub> | `React` `Node.js` `Spring Boot` `MySQL` | Full-stack architecture featuring real-time data visualizers. Containerized deployment with complex relational database mapping. |
